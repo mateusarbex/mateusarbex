@@ -3,15 +3,14 @@ My name is Mateus Arbex and I'm currently pursuing a degree in Computer Science.
 
 ### :construction: Stacks
 
+<p>
 <a href=˜https://github.com/mateusarbex˜>
   <img align"left"alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 <a href=˜https://github.com/mateusarbex˜>
   <img align"left"alt="React"src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 </a>
-<a href=˜https://github.com/mateusarbex˜>
-  <img align"left"alt="React"src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-</a>
+</p>
 
 
 ### :building_construction:    Stats   
