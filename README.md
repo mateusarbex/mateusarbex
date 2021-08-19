@@ -17,6 +17,9 @@ My name is Mateus Arbex and I'm currently pursuing a degree in Computer Science.
 
 <p>
   <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="React" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
     <img align"left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <a href=˜https://github.com/mateusarbex˜>
