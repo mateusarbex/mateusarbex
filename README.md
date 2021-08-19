@@ -4,12 +4,24 @@ My name is Mateus Arbex and I'm currently pursuing a degree in Computer Science.
 ### :construction: Stacks
 
 <p>
-<a href=˜https://github.com/mateusarbex˜>
-  <img align"left"alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-<a href=˜https://github.com/mateusarbex˜>
-  <img align"left"alt="React"src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-</a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href=˜https://github.com/mateusarbex˜>
+    <img align"left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
 </p>
 
 
