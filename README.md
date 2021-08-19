@@ -1,3 +1,2 @@
-### Hi there 👋
-
-https://ionicabizau.github.io/github-profile-languages/api.html?mateusarbex
+### Hello there 
+My name is Mateus Arbex and I'm currently pursing a degree in Computer Science.
