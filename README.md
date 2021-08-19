@@ -10,5 +10,5 @@ My name is Mateus Arbex and I'm currently pursuing a degree in Computer Science.
 ### Languages
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nu-nine.vercel.app/api/top-langs/?username=mateusarbex&theme=synthwave&layout=compact" />
+  <img align="center" src="https://github-readme-stats-nu-nine.vercel.app/api/top-langs/?username=mateusarbex&theme=synthwave&layout=compact&card_width=495" />
 </a>
